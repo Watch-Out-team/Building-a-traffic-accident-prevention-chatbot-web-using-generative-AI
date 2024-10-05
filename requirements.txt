@@ -39,3 +39,5 @@ networkx
 geopandas>=0.10
 shapely>=1.7
 sqlalchemy>=1.4
+
+ollama
